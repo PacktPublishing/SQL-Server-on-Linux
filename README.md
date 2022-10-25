@@ -26,3 +26,7 @@ Last but not least, you will need to install SQL Server on Linux. At the time of
 
 * [Linux: Powerful Server Administration](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788291804">https://packt.link/free-ebook/9781788291804 </a> </p>
